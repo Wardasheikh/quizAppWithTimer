@@ -1,0 +1,58 @@
+ body {
+    font-family: "open sans", sans-serif;
+    background-image: url(./img.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+
+ }
+
+ .container {
+    width: 440px;
+    margin-left: 33%;
+    background-color: rgb(245, 129, 224);
+    color: black;
+    margin-top: 5px;
+    padding: 11px;
+    border: 7px solid black;
+ }
+
+ .head {
+    text-align: center;
+    padding: 11px;
+    font-size: 40px;
+ }
+
+
+ .quiz {
+    margin-left: 11px;
+ }
+
+ .btn {
+    text-align: center;
+    padding: 11px;
+ }
+
+ button  {
+    width: 140px;
+    height: 40px;
+    background-color: rgb(254, 85, 38);
+    color: black;
+    font-size: 22px;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+
+   
+   
+ }
+
+ 
+ .timer {
+   text-align: center;
+   font-size: 30px;
+   font-weight: bold;
+  margin-top: 50px;
+   padding-top: 5px;
+   color: rgb(10, 96, 255);
+}
